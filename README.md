@@ -45,6 +45,12 @@ I bridge the gap between economic theory and data-driven reality. Using Python a
     * **The How:** Used **Power Query** to automate the "Append" process for a folder of CSVs. Applied **Pivot Tables** and slicers for real-time filtering by city and product type.
     * **The Result:** Reduced manual reporting time by 90% by automating the data consolidation and cleaning process.
 
+  ### 📊 [Investment Portfolio Tracker — Dynamic Financial Model](https://github.com/Luka-Kintsurashvili/investment-portfolio-tracker-excel.git)
+
+- **The Goal:** Build a fully automated Excel tool that projects personal wealth from any starting age to retirement across multiple market scenarios.
+- **The How:** Engineered a compound interest calculation engine across linked sheets using dynamic named ranges, cross-sheet formula architecture and Power Query. The model runs three parallel scenarios — Conservative (5%), Base Case (7%) and Optimistic (10%) — simultaneously, with every chart and KPI updating instantly when any input changes.
+- **The Result:** A single-input dashboard that shows any investor exactly what their monthly contributions become over time. Key finding: $200/month from age 18 builds $592,000 by retirement — only $100,800 of that is contributed capital. The remaining $491,000 is pure compound growth.
+
 ---
 
 ### 📫 Connect with me
