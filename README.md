@@ -17,6 +17,11 @@ I bridge the gap between economic theory and data-driven reality. Using Python a
 ---
 
 ### 🚀 Featured Projects
+#### Projects with combination of 🐍 Python and 📊 Excel
+* **[Revenue Growth Engine: Strategic Customer Segmentation]([https://github.com/Luka-Kintsurashvili/Retail-Customer-Analysis](https://github.com/Luka-Kintsurashvili/RetailAnalysis.git))**
+    * **The Goal:** Analyzed 500,000+ retail transactions to identify "at-risk" revenue and optimize marketing budget allocation.
+    * **The How:** Leveraged **Python (Pandas)** for RFM (Recency, Frequency, Monetary) modeling and built an automated **Excel Dashboard** to visualize customer behavioral "buckets."
+    * **The Result:** Isolated over **$1.03M** in at-risk revenue and provided a targeted action plan to re-engage high-value customers while protecting profit margins for top spenders.
 
 #### 🐍 Python Portfolio (Data Engineering & Visualization)
 * **[Retail Operations Insight: End-to-End Analysis](https://github.com/Luka-Kintsurashvili/Superstore-Sales-Analysis/blob/main/README.md)**
